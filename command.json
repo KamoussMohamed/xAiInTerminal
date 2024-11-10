@@ -1,0 +1,8 @@
+{
+    "uri":"https://api.x.ai/v1/chat/completions",
+    "authorization" : "Authorization Bearer ",
+    "sRole":"system",
+    "content" : "You are a daily IT assistant.",
+    "uRole": "user",
+    "model": "grok-beta"
+}
